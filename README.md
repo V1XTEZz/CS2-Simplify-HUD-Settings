@@ -27,4 +27,6 @@ Simplify ur HUD!
   <br><i>AAnim[0 or 1]</i> - <code>Enable animated avatars</code>
 </blockquote>
 
+<br>Also here Steam guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3636433935
+
 <br>Contact email: originalzent1em@gmail.com
