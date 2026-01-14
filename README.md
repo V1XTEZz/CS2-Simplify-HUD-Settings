@@ -20,7 +20,9 @@ Simplify ur HUD!
 </blockquote>
 <blockquote>
   <i>TMark[0 or 1] / TMarker[0 or 1]</i> - <code>Show teammate's overhead marker (togglable)</code> <i><b>UPDATED AND WORKING IN MM!</b></i>
-  <p><i>TEquip[num]</i> - <code>Showing mate's equipment & other (0 / 1 / 2 / 3)</code>
+  <br><i><b>TMark using UTDist and UTSDist, so now it's works (using default values)</b></i>
+  <p>
+  <br><i>TEquip[num]</i> - <code>Showing mate's equipment & other (0 / 1 / 2 / 3)</code>
   <br>0 - <i><b>name and marker</b></i> / 1 - <i><b>marker only</b></i> / 2 - <i><b>name, hp and marker</b></i> / 3 - <i><b>weapon, hp, name and marker</b></i></p>
   
   <i>TACol[0 or 1]</i> - <code>Colored mate's avatars (togglable)</code>
