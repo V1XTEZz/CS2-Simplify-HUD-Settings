@@ -15,7 +15,7 @@ Simplify ur HUD!
 <h3>Teammates</h3>
 <h6>Max distance able to see the icons of teammates (HP, Weapon & Grenades)</h6>
 <blockquote>
-  <i>UTDist[num]</i> - <code>(500 to 6000 [+500 until 3000]) or (05 / 1 / 15 / 2 / 25 / 3 / 4 / 5 / 6)</code>
+  <i>UTDist[num]</i> - <code>(0 to 6000 [+500 until 3000]) or (0 / 05 / 1 / 15 / 2 / 25 / 3 / 4 / 5 / 6)</code>
   <br><i>UTSDist[num]</i> - <code>The same, but for spectator</code>
 </blockquote>
 <blockquote>
