@@ -19,7 +19,7 @@ Simplify ur HUD!
   <br><i>UTSDist[num]</i> - <code>The same, but for spectator</code>
 </blockquote>
 <blockquote>
-  <i>TMark[0 or 1] / TMarker[0 or 1]</i> - <code>Show teammate's overhead marker (togglable)</code> <i><b>NEW!</b></i>
+  <i>TMark[0 or 1] / TMarker[0 or 1]</i> - <code>Show teammate's overhead marker (togglable)</code> <i><b>UPDATED AND WORKING IN MM!</b></i>
   <p><i>TEquip[num]</i> - <code>Showing mate's equipment & other (0 / 1 / 2 / 3)</code>
   <br>0 - <i><b>name and marker</b></i> / 1 - <i><b>marker only</b></i> / 2 - <i><b>name, hp and marker</b></i> / 3 - <i><b>weapon, hp, name and marker</b></i></p>
   
@@ -29,7 +29,7 @@ Simplify ur HUD!
 </blockquote>
 <h3>Other things</h3>
 <blockquote>
-  <i>EMute</i> - <code>Enemy team mute (togglable)</code> <i><b>NEW!</b></i>
+  <i>EMute</i> - <code>Enemy team mute (togglable)</code>
 </blockquote>
 
 <br>Also here Steam guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3636433935
