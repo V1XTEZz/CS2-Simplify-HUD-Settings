@@ -19,7 +19,7 @@ Simplify ur HUD!
   <br><i>UTSDist[num]</i> - <code>The same, but for spectator</code>
 </blockquote>
 <blockquote>
-  <i>TMark[0 or 1] / TMarker[0 or 1]</i> - <code>Show teammate's overhead marker (togglable)</code> <i><b>UPDATED AND WORKING IN MM!</b></i>
+  <i>TMark[0 or 1] / TMarker[0 or 1]</i> - <code>Show teammate's overhead marker (togglable)</code> <i><b>DOESN'T WORK</b></i>
   <br><i><b>TMark using UTDist and UTSDist, so now it's works (using default values)</b></i>
   <p>
   <br><i>TEquip[num]</i> - <code>Showing mate's equipment & other (0 / 1 / 2 / 3)</code>
