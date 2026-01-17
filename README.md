@@ -13,14 +13,8 @@ Simplify ur HUD!
   <br><i>FPS[0 or 1]</i> - <code>Toggle fps count (togglable)</code>
 </blockquote>
 <h3>Teammates</h3>
-<h6>Max distance able to see the icons of teammates (HP, Weapon & Grenades)</h6>
 <blockquote>
-  <i>UTDist[num]</i> - <code>(0 to 6000 [+500 until 3000]) or (0 / 05 / 1 / 15 / 2 / 25 / 3 / 4 / 5 / 6)</code>
-  <br><i>UTSDist[num]</i> - <code>The same, but for spectator</code>
-</blockquote>
-<blockquote>
-  <i>TMark[0 or 1] / TMarker[0 or 1]</i> - <code>Show teammate's overhead marker (togglable)</code> <i><b>DOESN'T WORK</b></i>
-  <br><i><b>TMark using UTDist and UTSDist, so now it's works (using default values)</b></i>
+  <i>NMark[num]</i> - <code>Fading teammate's overhead marker near to crosshair (+0.1 only, 0 to 1)</code>
   <p>
   <br><i>TEquip[num]</i> - <code>Showing mate's equipment & other (0 / 1 / 2 / 3)</code>
   <br>0 - <i><b>name and marker</b></i> / 1 - <i><b>marker only</b></i> / 2 - <i><b>name, hp and marker</b></i> / 3 - <i><b>weapon, hp, name and marker</b></i></p>
