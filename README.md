@@ -30,4 +30,4 @@ Simplify ur HUD!
 
 <br>Also here Steam guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3636433935
 
-<br>Contact email: originalzent1em@gmail.com
+<br>Contact email: contact_v1xtezz@proton.me
